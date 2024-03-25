@@ -20,12 +20,12 @@ I'm a passionate Flutter developer with 2.5 years of experience, specializing in
 ### Project 1: Music Player App
 - Description: A Flutter music player app that plays music from the device's storage.
 - Technologies Used: Flutter, Firebase (for authentication), Provider (for state management)
-- GitHub Repository: [Link to GitHub repository](https://github.com/ArchitRakholiya201/music_player_app)
+- GitHub Repository: [music_player_app](https://github.com/ArchitRakholiya201/music_player_app)
 
 ### Project 2: Weather App
 - Description: A Flutter weather app that displays the current weather based on the user's location.
 - Technologies Used: Flutter, OpenWeatherMap API (for weather data)
-- GitHub Repository: [Link to GitHub repository](https://github.com/ArchitRakholiya201/Weather-App)
+- GitHub Repository: [Weather-App](https://github.com/ArchitRakholiya201/Weather-App)
 
 ## Contact Me
 - Email: architrakholiya201@gmail.com
