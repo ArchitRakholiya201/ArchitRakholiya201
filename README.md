@@ -33,3 +33,6 @@ I'm a passionate Flutter developer with 2.5 years of experience, specializing in
 - Upwork: [Archit Rakholiya](https://www.upwork.com/freelancers/~01d9080ac057a19266?mp_source=share)
 
 Feel free to reach out to me for any Flutter-related projects or collaborations!
+
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ArchitRakholiya201)](https://git.io/streak-stats)
