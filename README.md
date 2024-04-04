@@ -35,4 +35,4 @@ I'm a passionate Flutter developer with 2.5 years of experience, specializing in
 Feel free to reach out to me for any Flutter-related projects or collaborations!
 
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=ArchitRakholiya201&theme=github-dark-blue)
+![GitHub Streak](https://streak-stats.demolab.com/?user=ArchitRakholiya201&theme=github-dark-blue&border=57A7FF)
