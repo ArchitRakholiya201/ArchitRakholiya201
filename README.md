@@ -36,4 +36,4 @@ Feel free to reach out to me for any Flutter-related projects or collaborations!
 
 Thanks for visiting my profile.
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=ArchitRakholiya201&theme=github-dark-blue&border=57A7FF&stroke=57A7FF)
+![GitHub Streak](https://streak-stats.demolab.com/?user=ArchitRakholiya201&theme=github-dark-blue&border=57A7FF&stroke=57A7FF&type=svg)
